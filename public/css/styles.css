@@ -1,0 +1,120 @@
+#index_h1{
+    text-align: center;
+    font-size: large;
+    color: #0000FF;
+}
+
+footer {
+    text-align: center; 
+    
+    
+}
+
+#navlinks {
+    text-align: center;
+}
+
+#indexfig{
+    text-align: center;
+}
+
+#html1{
+     background-color: grey;
+}
+
+#indexdiv{
+    font-family: monospace;
+    font-size: larger; 
+    text-align: center; 
+}
+
+#rightc{
+    float: right;
+}
+
+#leftc{
+    float: left;
+    
+}
+
+#headerc{
+    font-family: cursive;
+    text-align: center;
+    font-size: larger;
+    color: red;
+}
+
+#cplushtml{
+    background-color: #a2b9bc;
+}
+
+#footerdiv{
+    padding-top: 100; 
+    position: relative;
+    bottom: 250;
+    right: 250; 
+}
+
+#javaheader {
+    text-align: center;
+    font-family: serif;
+    color: orange;
+    font-size: larger;
+}
+
+#javahtml {
+    background-color: #999900;
+}
+
+#javap1{
+    text-align: center; 
+    background-color: white;
+    font-family: sans-serif;
+    text-decoration: underline overline wavy blue;
+}
+
+#javap2 {
+    text-align: center;
+    font-size: larger;
+}
+
+#sqlhtml{
+    background-color: #00b100;
+}
+
+#sqlh1{
+    text-align: center;
+}
+
+#sqldiv1{
+    background-color: white;
+    font-family: monospace;
+    text-align: center; 
+    text-decoration: underline overline dotted red;
+
+    
+}
+
+#sqldiv2{
+    font-family: inherit;
+    text-align: center;
+    
+}
+
+#sqlmain{
+    text-align: center;
+}
+
+#divcc{
+    font-stretch: condensed;
+    font-family: fantasy;
+    
+}
+
+#divfooterc{
+    float: left;
+}
+
+#probar {
+    text-align: center;
+}
